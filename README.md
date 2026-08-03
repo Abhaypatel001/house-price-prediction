@@ -1,5 +1,9 @@
 # 🏠 House Price Prediction using AI/ML
 
+## 🌐 Live Demo
+
+🔗 https://house-price-prediction-wheat.vercel.app
+
 A Machine Learning based House Price Prediction web application built using **Python, Flask, HTML, CSS, JavaScript, and Scikit-learn**. This project predicts the estimated price of a house based on user inputs such as **living area, bedrooms, bathrooms, floors, waterfront, and grade**.
 
 ---
